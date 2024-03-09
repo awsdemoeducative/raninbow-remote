@@ -1,2 +1,4 @@
 "Red is the first color  of the rainbow"
+"orange"
 "yello is the third color"
+"gree"
